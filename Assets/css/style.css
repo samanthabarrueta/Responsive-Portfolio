@@ -1,3 +1,16 @@
+body {
+    background-color: #eeeeee;
+}
+
 a {
     padding-right: 10px;
+    color: #c5c2c2
+}
+
+a:hover {
+    color: black;
+}
+
+.container-sm {
+    padding-top: 30px;
 }
